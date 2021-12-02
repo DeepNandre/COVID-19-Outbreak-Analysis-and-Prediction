@@ -1,4 +1,4 @@
-# HumanPhysiology-Project
+# COVID-19 Outbreak Analysis and Prediction
 A repository created solely for Human Physiology Project.
 
 
