@@ -4,6 +4,8 @@ Our project is aimed at discovering potential factors and traits associated with
 
 Our environment is under the control of the COVID-19 virus. This project is intended to employ the machine learning models for pandemic analysis through a dataset from Johns Hopkins. 
 
+![WhatsApp Image 2021-11-19 at 10 57 49 PM](https://user-images.githubusercontent.com/81618576/144496053-23a8df50-8525-439a-acd1-dbaf05c01460.jpeg)
+
 # About the Dataset
 
 - Retrieved from the official repository of JohnsHopkins University.
